@@ -1,0 +1,42 @@
+1,Base de datos estudiantes - Espinal,Informe que contiene los datos personales de los estudiantes de la sede Espinal,Datos de carácter personal,5,5,1,3,4,4
+2,Base de datos estudiantes - Ibague,Informe que contiene los datos personales de los estudiantes de la sede Ibague,Datos de carácter personal,5,5,1,1,3,3
+3,Base de datos profesores,Informe que contiene los datos personales de los profesores de la sede Ibague/Espinal,Datos de carácter personal,5,5,1,1,3,3
+4,Base de datos administrativos,Informe que contiene los datos personales de los administrativos de la universidad sede Ibague-Espinal,Datos de carácter personal,5,5,1,1,3,3
+5,Activación carnets,Proceso donde se avala la identidad de la persona y su vinculo con la universidad,Activos Esenciales,5,5,5,3,3,4
+6,Restauración plataformas,Proceso donde se ayuda al personal desde estudiantes a administrativos a la recuperación de usuario,Activos Esenciales,4,4,5,3,3,4
+7,Autoregistro,Proceso de creación de usuario dentro de la universidad Cooperativa,Activos Esenciales,2,5,5,3,4,4
+8,Atención eventos,Actividad donde se involucra personal de TIC donde se hace respaldo de la parte tecnologica de los eventos,Activos Esenciales,1,3,4,5,3,3
+9,Usuarios administrativos,Manejo de información de los administrativos de la empresa,Datos/Información,5,4,1,5,3,4
+10,Usuarios genericos,Manejo de información de usuarios genericos creados para las diferentes dependencias,Datos/Información,5,4,1,5,3,4
+11,Servicios prestados por cys,Procesos generados exclusivamente por la empresa CYS,Arquitectura del sistema,2,3,4,5,3,3
+12,Microsoft Authenticator,Aplicación que hace validación de identidad para aplicación de office 365,Claves criptograficas,5,4,5,3,2,4
+13,Identificate,Plataforma donde se alamacena información personal de la gente perteneciente a la universidad y hace cambio de contraseña,Servicios,5,3,5,4,4,4
+14,Doble autenticador,Forma de validación del correo y aplicaciones 365,Servicios,5,3,5,4,4,4
+15,Autodesk,Compañía estadounidense dedicada al software de diseño en 2D y 3D para las industrias de manufacturas\, infraestructuras\, construcción\, medios y entretenimiento y datos transmitidos vía inalámbrica,Software - Aplicaciones Informaticas,4,2,3,2,2,3
+16,Matlab,Sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio,Software - Aplicaciones Informaticas,4,5,3,2,2,3
+17,Oracle people soft,Es una compañía especializada en el desarrollo de soluciones de nube y locales,Software - Aplicaciones Informaticas,5,5,4,2,3,4
+18,Cisco packet tracer,Es un programa de simulación de redes que permite a los estudiantes experimentar con el comportamiento de la red,Software - Aplicaciones Informaticas,3,3,3,4,5,4
+19,NetBeans,Es un entorno de desarrollo integrado libre\, hecho principalmente para el lenguaje de programación Java,Software - Aplicaciones Informaticas,3,1,3,4,2,3
+20,Office 365,Microsoft 365 es una línea de servicios por suscripción ofrecidos por Microsoft\, con licencias para Windows 10 Enterprise y otros productos de seguridad y administración de dispositivos basados en la nube,Software - Aplicaciones Informaticas,5,3,4,4,5,4
+21,Eclipse,Es una plataforma de software compuesto por un conjunto de herramientas de programación de código abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Cliente Enriquecido"\, opuesto a las aplicaciones "Cliente-liviano" basadas en navegadores,Software - Aplicaciones Informaticas,4,4,3,1,5,3
+22,Java,Es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems,Software - Aplicaciones Informaticas,2,5,4,2,3,3
+23,Anaconda Navigator,Es una interfaz gráfica de usuario de escritorio incluida en Anaconda que le permite iniciar aplicaciones y administrar fácilmente paquetes conda,Software - Aplicaciones Informaticas,2,3,4,2,3,3
+24,All in one HP,Computador todo en uno de marca HP,Equipamiento informatico (Hardware),5,1,5,3,2,3
+25,All in one  Lenovo,Computador todo en uno de marca Lenovo,Equipamiento informatico (Hardware),5,1,2,2,3,3
+26,Portatiles,Computador de tipo portatil\, generalmente marca HP,Equipamiento informatico (Hardware),5,2,5,4,3,4
+27,Tablets,Dispositivos electronicos,Equipamiento informatico (Hardware),5,3,3,4,2,3
+28,Televisores,Aparato electrónico destinado a la recepción y reproducción de videos de la universidad,Equipamiento informatico (Hardware),5,4,2,4,5,4
+29,Televisores interactivos,Tableros interactivos,Equipamiento informatico (Hardware),5,4,3,4,5,4
+30,Impresoras,Aparato electronico que imprime\, escanea y fotocopia documentos,Equipamiento informatico (Hardware),3,5,1,2,1,2
+31,Scanners,Aparato electronico exclusivo para scannear,Equipamiento informatico (Hardware),3,3,2,3,4,3
+32,Acces point,Dispositivo para establecer una conexión inalámbrica entre equipos,Redes de comunicaciones,5,5,3,3,3,4
+33,Switch Aruba,Los administradores IT pueden gestionar la red de la empresa de manera sencilla\, ya sea un gran campus o una sucursal remota de pequeñas dimensiones,Redes de comunicaciones,5,2,2,3,4,3
+34,Switch HP,Los administradores IT pueden gestionar la red de la empresa de manera sencilla\, ya sea un gran campus o una sucursal remota de pequeñas dimensiones,Redes de comunicaciones,5,3,3,5,3,4
+35,Cableado UTP,Es un tipo de cable que tiene dos conductores eléctricos aislados y entrelazados para anular las interferencias de fuentes externas y diafonía de los cables adyacentes,Redes de comunicaciones,1,1,2,3,4,2
+36,Conexiones en salones,Es un espacio donde ofrece diferentes conexiones,Redes de comunicaciones,1,1,3,2,4,2
+37,VLANS,VLAN divide los grupos de usuarios de la red de una red física real en segmentos de redes lógicas,Redes de comunicaciones,5,3,2,4,4,4
+38,One drives,Es el almacenamiento personal en línea que obtiene al configurar una cuenta de Microsoft para usar servicios como Outlook.com,Soporte de información ,5,5,4,4,3,4
+40,Oficina de gestión tecnologica,Dependencia encarga de todos los procesos tecnologicos de la universidad,Instalaciones ,5,5,3,2,5,4
+41,Bodega UPS,Sitio destinado directamente a almacenar las UPS,Instalaciones ,5,3,2,4,4,4
+42,Bodega redes,Sitio destinado a contener los racks y servidores,Instalaciones ,5,2,1,2,4,3
+39,Discos duros,Dispositivo de almacenamiento de información,Soporte de información,2,3,1,2,2,2

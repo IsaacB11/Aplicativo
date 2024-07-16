@@ -1,0 +1,179 @@
+{
+	"info": {
+		"_postman_id": "664c5ef7-7b57-4ae2-a008-69b7aaab49c8",
+		"name": "MAGERIT - PYTHON 2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4273844"
+	},
+	"item": [
+		{
+			"name": "Consultar Activos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/activos",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"activos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar tipo Amenaza",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/tipo_amenaza",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"tipo_amenaza"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar Amenaza por tipo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/amenaza/1/tipo_amenaza",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"amenaza",
+						"1",
+						"tipo_amenaza"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar activos por proceso",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/activos/process/21",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"activos",
+						"process",
+						"21"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Guardar process",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"id\": 1,\n    \"usuario\": \"usuario\",\n    \"activos\": [\n        {\n            \"id_activo\": 1,\n            \"id_tipo_amenaza\": 1,\n            \"id_amenaza\": 1\n        },\n        {\n            \"id_activo\": 2,\n            \"id_tipo_amenaza\": 1,\n            \"id_amenaza\": 1\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/process",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"process"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "crear mapa de calor ESTE NO",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/generar_pdf/",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"generar_pdf",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "crear mapa de calor Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/heatmap",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"heatmap"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "actualizar activo por proceso",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"confidencialidad\": 1,\n    \"integridad\": 1,\n    \"disponibilidad\": 1\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/process/5/activo",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"process",
+						"5",
+						"activo"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

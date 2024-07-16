@@ -1,0 +1,14 @@
+29,Televisores interactivos,Tableros interactivos,Equipamiento informatico (Hardware),5,4,3,4,5,4
+30,Impresoras,Aparato electronico que imprime\, escanea y fotocopia documentos,Equipamiento informatico (Hardware),3,5,1,2,1,2
+31,Scanners,Aparato electronico exclusivo para scannear,Equipamiento informatico (Hardware),3,3,2,3,4,3
+32,Acces point,Dispositivo para establecer una conexión inalámbrica entre equipos,Redes de comunicaciones,5,5,3,3,3,4
+33,Switch Aruba,Los administradores IT pueden gestionar la red de la empresa de manera sencilla\, ya sea un gran campus o una sucursal remota de pequeñas dimensiones,Redes de comunicaciones,5,2,2,3,4,3
+34,Switch HP,Los administradores IT pueden gestionar la red de la empresa de manera sencilla\, ya sea un gran campus o una sucursal remota de pequeñas dimensiones,Redes de comunicaciones,5,3,3,5,3,4
+35,Cableado UTP,Es un tipo de cable que tiene dos conductores eléctricos aislados y entrelazados para anular las interferencias de fuentes externas y diafonía de los cables adyacentes,Redes de comunicaciones,1,1,2,3,4,2
+36,Conexiones en salones,Es un espacio donde ofrece diferentes conexiones,Redes de comunicaciones,1,1,3,2,4,2
+37,VLANS,VLAN divide los grupos de usuarios de la red de una red física real en segmentos de redes lógicas,Redes de comunicaciones,5,3,2,4,4,4
+38,One drives,Es el almacenamiento personal en línea que obtiene al configurar una cuenta de Microsoft para usar servicios como Outlook.com,Soporte de información ,5,5,4,4,3,4
+40,Oficina de gestión tecnologica,Dependencia encarga de todos los procesos tecnologicos de la universidad,Instalaciones ,5,5,3,2,5,4
+41,Bodega UPS,Sitio destinado directamente a almacenar las UPS,Instalaciones ,5,3,2,4,4,4
+42,Bodega redes,Sitio destinado a contener los racks y servidores,Instalaciones ,5,2,1,2,4,3
+39,Discos duros,Dispositivo de almacenamiento de información,Soporte de información,2,3,1,2,2,2
